@@ -1,0 +1,25 @@
+{
+  "name": "jquery-fulltable",
+  "version": "1.0.0",
+  "description": "Easy Inline Editor for HTML Tables - jQuery fullTable",
+  "main": "fulltable",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilisag/jquery-fulltable.git"
+  },
+  "keywords": [
+    "jquery",
+    "fulltable",
+    "inline",
+    "editor"
+  ],
+  "author": "Nguyen Anh Vu <navuitag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vilisag/jquery-fulltable/issues"
+  },
+  "homepage": "https://github.com/Vilisag/jquery-fulltable#readme"
+}
