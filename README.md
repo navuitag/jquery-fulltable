@@ -9,18 +9,19 @@ Easy Inline Editor for HTML tables - jQuery fullTable
 
 ## Usage
 
-    var numFormatter = require('@navuitag/jquery-fulltable');
-
-    var formattedNum = numFormatter(35666);
-  
-  
-  Output should be `35,666`
+    var $ = require( 'jquery' );
+    require('@navuitag/jquery-fulltable')( window, $ );
 
 
 ## Tests
 
   `npm test`
 
-## Contributing
+### Contributing
 
-In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+If you are thinking of contributing code to jQuery fullTable, first of all, thank you! All fixes, patches and enhancements to jQuery fullTable are very warmly welcomed. This repository is a distribution repo, so patches and issues sent to this repo will not be accepted. Instead, please direct pull requests to the [jQuery fullTable](https://github.com/Vilisag/jquery-fulltable). For issues / bugs, please direct your questions to the [email](mailto:navuitag@gmail.com).
+
+
+## License
+
+This software is released under the [MIT license](https://github.com/Vilisag/jquery-fulltable/license). You are free to use, modify and distribute this software, but all copyright information must remain.
